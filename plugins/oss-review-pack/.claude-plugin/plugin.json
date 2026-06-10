@@ -1,0 +1,21 @@
+{
+  "name": "oss-review-pack",
+  "version": "1.0.0",
+  "description": "Open-source review pack: license auditing and dependency triage skills for evaluating third-party code before adoption.",
+  "license": "MIT",
+  "author": {
+    "name": "Fixture Maintainers",
+    "email": "maintainers@acme.example"
+  },
+  "keywords": [
+    "open-source",
+    "license",
+    "dependencies",
+    "review",
+    "supply-chain"
+  ],
+  "skills": [
+    "skills/oss-license-auditor",
+    "skills/oss-dependency-triage"
+  ]
+}
